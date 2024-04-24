@@ -10,7 +10,6 @@ Installation and Launch
 Clone or download this repository to your computer.
 Make sure you have a C++ compiler and OpenGL library installed.
 Compile and run the source code using a C++ development environment (e.g., Visual Studio for Windows, Xcode for macOS, or g++ for Linux).
-Follow the on-screen instructions to play the game.
 
 Gameplay
 The objective of the game is to place diamonds in the available cells to destroy the advancing hexagons.
